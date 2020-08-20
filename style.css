@@ -1,0 +1,221 @@
+body{
+   
+height:1px;
+}
+.profile{
+    border-radius: 50%;
+    width:40px;
+    height: 40px;
+    text-indent: 90px;
+}
+.head{
+   background-color:#2D6DCD;
+   text-align: center;
+   max-height: 491px;
+}
+.nav{
+    text-align: center;
+   
+}
+.logo{
+    background-color:#2D6DCD;
+    width: 50px;  
+    height: 40px;
+}
+.watermark{
+    height: 520px;
+    width: 500px;
+}
+.background{
+    position: relative;
+    z-index: 1;
+    bottom: 540px;
+}
+.table {
+    position: relative;
+    z-index: 1;
+    bottom: 150px;
+    background-color: white;
+    box-shadow: 0px 3px 6px #2D6DCD6E;
+border-radius: 4px;
+opacity: 1;
+   
+    /* box-shadow: 4px 3px 15px -2px grey; */
+}
+.maintable{
+    width: 80%;
+margin: auto;
+}
+.timg{
+    margin-right: 6px;
+    font-weight: bold;
+    
+}
+td{
+  color: #99A3B7;
+  opacity: 1;
+    font-size: 15px;
+}
+.changes{
+    color:green;
+}
+.buy{
+color:#83CC9F;
+    border: none;
+    width: 60px;
+    font-size: 12px;
+   font-weight: 600;
+   height: 30px;
+   background-color:#F2F9F5;
+}
+th{
+    background-color:#D6E4FE;
+    color:#2D6DCD;
+}
+.down{
+    color: #2D6DCD;
+    position: relative;
+    z-index: 1;
+    bottom: 226px;
+    margin-left:50%;
+}
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both
+  }
+  
+  .column-66 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+  }
+  .column-33 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height: 20%;
+  }
+  
+  .large-font {
+    font-size: 48px;
+  }
+  .xlarge-font {
+    font-size: 64px
+  }
+  
+ .invite{
+     background-color: #2D6DCD;
+     border: none;
+     color: white;
+    width: 120px;
+    height: 51px;
+    font-size: 18px;
+ }
+ .referal{
+    width:445px;
+     height:300px;
+     bottom: 60px;
+     position: relative;
+ }
+ .column-35 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height: 100%;
+  }
+  .column-67{
+      color: white;
+  }
+.portfolio{
+   
+    background-color:#2D6DCD;
+    -ms-transform: skewY(20deg);
+  transform: skewY(170deg);
+  /* width: 1400px; */
+  height: 1000px;
+  margin: -135px 0px 0px ;
+ 
+}
+ .circle{
+     font-size: 24px;
+ }
+ .paragraph{
+   font-size: 16px;
+color: #FFFFFF;
+opacity: 1;
+ }
+  .fullprotofolio{
+  bottom: 850px;
+  position: relative;
+    transform: skewY(360deg);
+  }
+  .group{
+      bottom: 750px;  
+      position: relative;
+  }
+  .column-34 {
+    float: left;
+    margin-top: 150px;
+    height: 100%;
+  }
+  .maingroup{
+      margin-top: 100px;
+  }
+   .bankaccount{
+    bottom: 841px;  
+    position: relative;
+    background-color:#2D6DCD;
+    color: white;
+margin: 30px;
+padding: 80px;
+  }
+  .bank{
+    display: flex;
+    justify-content: center;
+    /* margin: 60px; */
+  }
+  .bankimg{
+    padding: 80px;
+  }
+  .fig1{
+    border-top: 5px solid white;
+    position: relative;
+    bottom: 157px;
+    left: 261px;
+    width: 137px; 
+  }
+  .referal2 {
+    position: relative;
+    bottom: 757px;
+  }
+  .footer-copyright{
+    background-color:#2D6DCD;
+    color:#FFFFFF;
+    opacity: 1;
+    letter-spacing: 0px;
+    font: Regular 18px/17px Lato;
+    
+ 
+  }
+  .foot{
+    padding: 80px;
+  }
+  .page-footer{
+    background-color:#F4F8FF;
+    position: relative;
+    bottom: 743px;
+  }
+  .connect{
+   margin-top: 62px;
+   color: #5C5B5B;
+text-transform: uppercase;
+opacity: 1;
+font-size: 20px;
+  }
+  .product{
+    color: #5C5B5B;
+    opacity: 1;
+    
+  }
